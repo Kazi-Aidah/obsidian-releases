@@ -18702,5 +18702,19 @@
     "author": "David Barnett",
     "description": "Modifies pasted GitHub links to use short GitHub ref text as the link title.",
     "repo": "dbarnett/obsidian-gh-links-shortener"
+  },
+  {
+    "id": "color-table-cell",
+    "name": "Color Table Cell",
+    "author": "Kazi Aidah Haque",
+    "description": "Color table cells via right-click in Reading mode!",
+    "repo": "Kazi-Aidah/color-table-cell"
+  },
+  {
+    "id": "sidecards",
+    "name": "SideCards", 
+    "author": "Kazi Aidah Haque",
+    "description": "Quickly create cards in your sidebar, color, tag, and drag them straight into your notes.",
+    "repo": "Kazi-Aidah/sidecards"
   }
 ]
