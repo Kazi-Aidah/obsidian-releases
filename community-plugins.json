@@ -18709,12 +18709,5 @@
     "author": "Kazi Aidah Haque",
     "description": "Color table cells via right-click in Reading mode!",
     "repo": "Kazi-Aidah/color-table-cell"
-  },
-  {
-    "id": "sidecards",
-    "name": "SideCards", 
-    "author": "Kazi Aidah Haque",
-    "description": "Quickly create cards in your sidebar, color, tag, and drag them straight into your notes.",
-    "repo": "Kazi-Aidah/sidecards"
   }
 ]
